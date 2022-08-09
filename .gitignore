@@ -1,0 +1,6 @@
+node-modules
+/node-modules
+../node-modules
+api/node-modules
+/api/node-modules
+*node-modules
